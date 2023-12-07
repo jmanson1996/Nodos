@@ -1,0 +1,14 @@
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\bin\Debug\net6.0\Lista_enlazada.exe
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\bin\Debug\net6.0\Lista_enlazada.deps.json
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\bin\Debug\net6.0\Lista_enlazada.runtimeconfig.json
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\bin\Debug\net6.0\Lista_enlazada.dll
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\bin\Debug\net6.0\Lista_enlazada.pdb
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\obj\Debug\net6.0\Lista_enlazada.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\obj\Debug\net6.0\Lista_enlazada.AssemblyInfoInputs.cache
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\obj\Debug\net6.0\Lista_enlazada.AssemblyInfo.cs
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\obj\Debug\net6.0\Lista_enlazada.csproj.CoreCompileInputs.cache
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\obj\Debug\net6.0\Lista_enlazada.dll
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\obj\Debug\net6.0\refint\Lista_enlazada.dll
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\obj\Debug\net6.0\Lista_enlazada.pdb
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\obj\Debug\net6.0\Lista_enlazada.genruntimeconfig.cache
+G:\proyectos c#\Lista_enlazada\Lista_enlazada\obj\Debug\net6.0\ref\Lista_enlazada.dll
